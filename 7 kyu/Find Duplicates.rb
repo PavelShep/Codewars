@@ -17,7 +17,5 @@ def duplicates(arr)
   duplicates.uniq
 end
 
-p duplicates([1,4,4,1])
-
 
 

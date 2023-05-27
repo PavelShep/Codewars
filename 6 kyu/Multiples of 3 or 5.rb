@@ -18,5 +18,3 @@ def solution(number)
     0
   end
 end
-
-p solution(10)

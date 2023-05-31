@@ -8,5 +8,3 @@ def reverse_words(str)
   p str.split(/ /).each { |x| a << x.reverse}
   a.join(" ")
 end
-
-p reverse_words("Hello  World!")

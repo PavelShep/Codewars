@@ -1,5 +1,3 @@
-**ReadMe**
-
 Welcome to the Codewars-Ruby repository! This repository contains solutions to various coding challenges and exercises from the Codewars platform, all implemented in Ruby.
 
 ## About Codewars

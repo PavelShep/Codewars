@@ -1,4 +1,4 @@
-Welcome to the Codewars-Ruby repository! This repository contains solutions to various coding challenges and exercises from the Codewars platform, all implemented in Ruby.
+Welcome to the Codewars repository! This repository contains solutions to various coding challenges and exercises from the Codewars platform.
 
 ## About Codewars
 
@@ -6,7 +6,7 @@ Welcome to the Codewars-Ruby repository! This repository contains solutions to v
 
 ## Repository Contents
 
-In this repository, you will find a collection of Ruby solutions to the Codewars katas. The solutions are organized into directories based on their respective difficulty levels. Each solution comes with a detailed explanation of the problem and the approach taken to solve it. You can explore the different directories to find challenges that match your skill level or areas you want to improve in Ruby programming.
+In this repository, you will find a collection of solutions to the Codewars katas. The solutions are organized into directories based on their respective difficulty levels. Each solution comes with a detailed explanation of the problem and the approach taken to solve it. You can explore the different directories to find challenges that match your skill level or areas you want to improve in programming.
 
 ## Disclaimer
 
